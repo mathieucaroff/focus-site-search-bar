@@ -1,0 +1,12 @@
+# Hidden sources
+trash
+trash.*
+wip
+wip.*
+
+# Build products
+*.xpi
+*.zip
+
+# Local configurations
+.vscode
